@@ -25,3 +25,6 @@
 ![关于页](https://github.com/rxkj/-We--/blob/master/Screenshot_20190410_151305_com.tencent.mm.jpg)
 # 更新日志页
 ![更新日志页](https://github.com/rxkj/-We--/blob/master/Screenshot_20190410_151308_com.tencent.mm.jpg)
+# 如觉得不错，请给予star。如需开发属于您学院的小程序助手，可以通过邮件方式联系我。
+# 邮箱：hjrxkj@163.com
+# 感谢您的支持！
